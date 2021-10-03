@@ -5,4 +5,4 @@
 - Let's connect on <a href="https://www.linkedin.com/in/rsyamil/">LinkedIn</a>!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsyamil&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsyamil&hide=jupyternotebook&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsyamil&hide=jupyter&layout=compact)
