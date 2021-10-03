@@ -4,5 +4,5 @@
 - I aspire to make ML/DL more accessible and explainable to practitioners. 
 - Let's connect on <a href="https://www.linkedin.com/in/rsyamil/">LinkedIn</a>!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsyamil&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsyamil&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rsyamil&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsyamil&hide=jupyternotebook&layout=compact)
